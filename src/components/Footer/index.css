@@ -1,0 +1,19 @@
+.home-footer-container {
+  margin-top: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-icon {
+  margin: 12px;
+}
+.footer-contact-us {
+  font-family: HK Grotesk;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
